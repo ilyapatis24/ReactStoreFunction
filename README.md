@@ -80,6 +80,5 @@ npm start
 ```
 Запуск тестов и линтер
 ```
-npm run lint
 npm run test
 ```
