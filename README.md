@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Build status](https://ci.appveyor.com/api/projects/status/9c5q5ob8rl2x6qp6?svg=true)](https://ci.appveyor.com/project/ilyapatis24/ra-store-func)
-
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
 ![Внешний вид страницы после реализации компонента](./src/img/preview.png)
 
